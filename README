@@ -1,0 +1,13 @@
+Q-Tip Diagnosis
+Summer Internship Project 2020
+Gatphan Atassi - University of North Carolina at Charlotte
+===========================================================
+
+This Github Repository contains the work of a proposed research experiment that asked whether using Saliva samples, Illumina 16S Sequencing, and databases could be used to predict disease state. (ELI5: Can i take a gum level swab, figure out the ratio of bacteria and viruses present in a certain part of the mouth and say you have a developing cavity [for instance])
+Given COVID-19 real human data was not obtained and as such the jupyter notebook file in the repo provides a way to generate random data. 
+This was a PROOF OF CONCEPT in the manner that if we take out the generated data and somehow obtain real data, it can be plugged straight into the database model and be used to potentially start making conclusions other than this tool having potential.
+
+What is included in this repo?
+Some data table files (as csv's), a database file, jupyter notebook file, Project Outline document (which is the official writeup of this endeavor
+
+Contact: Gatphan Atassi -> gnatassi@gmail.com with questions
